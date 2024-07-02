@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "igWQG8jnm/hIZxJKUJgD1CB/2kIOjWQu55IlCa5PV6zsfBFVNmlUfGgFRuQXxzFXwKCdWH2HY5xwgqpupiFxkg==",
+  "success": true,
+  "projectFilePath": "C:\\Me\\code\\monogame\\GoL\\GoL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danjs\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\danjs\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\danjs\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\danjs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\danjs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\danjs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
